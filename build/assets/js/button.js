@@ -9,7 +9,7 @@
             .then(function(response) {
               console.log('SUCCESS!', response.status, response.text);
               thisForm.querySelector('.error-message').classList.remove('d-block');
-                window.location.href = 'thank.html';
+                window.location.href = '/final';
             }, function(error) {
                 console.log('FAILED...', error);
                 thisForm.querySelector('.loading').classList.remove('d-block');

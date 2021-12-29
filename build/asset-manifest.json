@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.3c5c5ecd.chunk.css",
-    "main.js": "/static/js/main.fef8d5a2.chunk.js",
+    "main.css": "/static/css/main.3a18affb.chunk.css",
+    "main.js": "/static/js/main.40b4aef0.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.0b74b15a.js",
     "static/css/2.bbecc5dc.chunk.css": "/static/css/2.bbecc5dc.chunk.css",
-    "static/js/2.784a641c.chunk.js": "/static/js/2.784a641c.chunk.js",
+    "static/js/2.a8f7d7a1.chunk.js": "/static/js/2.a8f7d7a1.chunk.js",
     "static/js/3.303e322f.chunk.js": "/static/js/3.303e322f.chunk.js",
     "index.html": "/index.html",
-    "static/js/2.784a641c.chunk.js.LICENSE.txt": "/static/js/2.784a641c.chunk.js.LICENSE.txt",
+    "static/js/2.a8f7d7a1.chunk.js.LICENSE.txt": "/static/js/2.a8f7d7a1.chunk.js.LICENSE.txt",
     "static/media/turing.css": "/static/media/flow-circular.853ff76f.woff",
     "static/media/founik.638548ab.png": "/static/media/founik.638548ab.png"
   },
   "entrypoints": [
     "static/js/runtime-main.0b74b15a.js",
     "static/css/2.bbecc5dc.chunk.css",
-    "static/js/2.784a641c.chunk.js",
-    "static/css/main.3c5c5ecd.chunk.css",
-    "static/js/main.fef8d5a2.chunk.js"
+    "static/js/2.a8f7d7a1.chunk.js",
+    "static/css/main.3a18affb.chunk.css",
+    "static/js/main.40b4aef0.chunk.js"
   ]
 }
