@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/founik-remote/static/css/main.d767dc71.chunk.css",
+    "main.js": "/founik-remote/static/js/main.00502351.chunk.js",
+    "runtime-main.js": "/founik-remote/static/js/runtime-main.1b128d0d.js",
+    "static/css/2.c6315edc.chunk.css": "/founik-remote/static/css/2.c6315edc.chunk.css",
+    "static/js/2.a8f7d7a1.chunk.js": "/founik-remote/static/js/2.a8f7d7a1.chunk.js",
+    "static/js/3.303e322f.chunk.js": "/founik-remote/static/js/3.303e322f.chunk.js",
+    "index.html": "/founik-remote/index.html",
+    "static/js/2.a8f7d7a1.chunk.js.LICENSE.txt": "/founik-remote/static/js/2.a8f7d7a1.chunk.js.LICENSE.txt",
+    "static/media/turing.css": "/founik-remote/static/media/flow-circular.853ff76f.woff",
+    "static/media/founik.638548ab.png": "/founik-remote/static/media/founik.638548ab.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b128d0d.js",
+    "static/css/2.c6315edc.chunk.css",
+    "static/js/2.a8f7d7a1.chunk.js",
+    "static/css/main.d767dc71.chunk.css",
+    "static/js/main.00502351.chunk.js"
+  ]
+}
